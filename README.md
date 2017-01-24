@@ -1,2 +1,5 @@
 # hello-world
-First repository for tutorial
+
+This is my first attempt at Git.
+
+
